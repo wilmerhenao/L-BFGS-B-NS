@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+lbfgsb_ns/__pycache/
+	*.*
+
+dist/
+	*.*
+
+build/
+	*.*
+
+_fortran/
+	*.*
+
+*.so
+*.o
+*.out
+*.a
+*.dll
+*.lib
+*.dynlib
+*.c
+
+test.py
+MANIFEST

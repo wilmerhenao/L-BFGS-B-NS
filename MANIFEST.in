@@ -1,0 +1,3 @@
+include lbfgsb_ns/__init__.py
+global-include *.f
+global-include *.pyf
